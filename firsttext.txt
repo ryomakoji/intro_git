@@ -1,3 +1,5 @@
 gitの練習
 2回名
 .git add
+
+aaa
